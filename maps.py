@@ -12,4 +12,4 @@ temp = [0, 22.5, 40,100]
 l1=[1,2,3,4,5]
 l2=[2,3,4,5,6]
 mapl=map(lambda x,y:x*y,l1,l2)
-print mapl
+print(mapl)
